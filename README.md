@@ -1,1 +1,1 @@
-# CosSoft-Task-1
+# CodSoft-Task-1
